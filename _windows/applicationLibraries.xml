@@ -1,20 +1,20 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.7">
+    <library name="Python 3.7 interpreter library">
       <CLASSES>
         <root url="file://D:/Python37/DLLs" />
         <root url="file://D:/Python37/Lib" />
         <root url="file://D:/Python37" />
-        <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/1757354836" />
         <root url="file://D:/Python37/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/1201333238" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
         <root url="file://D:/Python37/DLLs" />
         <root url="file://D:/Python37/Lib" />
         <root url="file://D:/Python37" />
-        <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/1757354836" />
         <root url="file://D:/Python37/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/1201333238" />
       </SOURCES>
     </library>
   </component>
