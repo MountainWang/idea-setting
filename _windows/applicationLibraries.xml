@@ -1,5 +1,36 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 3.7 (transformer_) interpreter library">
+      <CLASSES>
+        <root url="file://D:/Python37/DLLs" />
+        <root url="file://D:/Python37/Lib" />
+        <root url="file://D:/Python37" />
+        <root url="file://D:/Work/Projects/transformer_/venv" />
+        <root url="file://D:/Work/Projects/transformer_/venv/Lib/site-packages" />
+        <root url="file://D:/Python37/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-480158362" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/Python37/DLLs" />
+        <root url="file://D:/Python37/Lib" />
+        <root url="file://D:/Python37" />
+        <root url="file://D:/Work/Projects/transformer_/venv" />
+        <root url="file://D:/Work/Projects/transformer_/venv/Lib/site-packages" />
+        <root url="file://D:/Python37/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-480158362" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.7 interpreter library">
       <CLASSES>
         <root url="file://D:/Python37/DLLs" />
